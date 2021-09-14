@@ -1,0 +1,5 @@
+Package: locatr
+Type: Package
+Title: Find the location of R scritps
+Version: 0.0.1.0
+RoxygenNote: 7.1.2
