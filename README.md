@@ -1,2 +1,2 @@
 # locatr
-locator package for R
+locatr package for R
